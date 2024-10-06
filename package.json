@@ -3,7 +3,7 @@
     "version": "1.2.4",
     "homepage": "https://github.com/TysonOP/spotify-card/",
     "main": "dist/index.js",
-    "license": "ISC",
+    "license": "MIT",
     "types": "dist/index.d.ts",
     "keywords": [
         "spotify",
