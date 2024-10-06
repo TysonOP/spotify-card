@@ -1,9 +1,9 @@
 {
     "name": "spotify-card",
     "version": "1.2.5",
-    "homepage": "https://docs.cstef.dev/docs/spotify-card/",
+    "homepage": "https://github.com/TysonOP/spotify-card/",
     "main": "dist/index.js",
-    "license": "MIT",
+    "license": "ISC",
     "types": "dist/index.d.ts",
     "keywords": [
         "spotify",
@@ -17,7 +17,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/cstefFlexin/spotify-card"
+        "url": "https://github.com/TysonOP/spotify-card"
     },
     "scripts": {
         "test": "yarn jest index.test.ts",
